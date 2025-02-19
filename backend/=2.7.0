@@ -1,0 +1,12 @@
+Collecting pydantic
+  Using cached pydantic-2.10.6-py3-none-any.whl.metadata (30 kB)
+Collecting pydantic-settings
+  Using cached pydantic_settings-2.7.1-py3-none-any.whl.metadata (3.5 kB)
+Requirement already satisfied: annotated-types>=0.6.0 in ./venv/lib/python3.12/site-packages (from pydantic) (0.7.0)
+Requirement already satisfied: pydantic-core==2.27.2 in ./venv/lib/python3.12/site-packages (from pydantic) (2.27.2)
+Requirement already satisfied: typing-extensions>=4.12.2 in ./venv/lib/python3.12/site-packages (from pydantic) (4.12.2)
+Requirement already satisfied: python-dotenv>=0.21.0 in ./venv/lib/python3.12/site-packages (from pydantic-settings) (1.0.1)
+Using cached pydantic-2.10.6-py3-none-any.whl (431 kB)
+Using cached pydantic_settings-2.7.1-py3-none-any.whl (29 kB)
+Installing collected packages: pydantic, pydantic-settings
+Successfully installed pydantic-2.10.6 pydantic-settings-2.7.1
