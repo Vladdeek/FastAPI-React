@@ -1,0 +1,22 @@
+.content {
+	border-radius: 15px;
+	padding: 10px;
+	height: 150px;
+	width: auto;
+	position: relative;
+	transition: 0.2s;
+	margin: 2.5% 0;
+	user-select: none;
+	-webkit-user-select: none;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.125);
+}
+.name {
+	font-size: 22px;
+	font-weight: 600;
+	user-select: none;
+	-webkit-user-select: none;
+	word-wrap: break-word;
+}
+.price {
+	color: green !important;
+}
